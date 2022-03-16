@@ -1,0 +1,7 @@
+How to run:
+first argument = input file
+second argument = output file
+
+java -jar SalazarDVLtoJSON.jar <input_file> <output_file>
+
+Source Code = SalazarFileConverter.zip
